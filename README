@@ -1,0 +1,3 @@
+Toast displays TACTIC (http://tactic.triumf.ca/) events online and offline. It can connect directly to the analyzer via socket, or read analyzed data from file.
+It visualizes tracks and coincidences, and generates energy and position histograms. It is also possible to apply cuts to data.
+Load the example .toast data file for testing.
